@@ -1,4 +1,4 @@
-/* Start Common Styles*/
+/* Start Primary Styles*/
 h1,
 h2,
 h3,
@@ -43,9 +43,9 @@ body {
   padding: 0 15px;
 }
 
-/* End Common Styles*/
+/* End Primary Styles*/
 
-/*   Start Page Header styles   */
+/*   Start Header styles   */
 .page-header {
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08),
