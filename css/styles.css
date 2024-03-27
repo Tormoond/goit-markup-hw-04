@@ -32,7 +32,7 @@ img {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -83,7 +83,7 @@ body {
 }
 
 .logo {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   line-height: 1.17;
   font-size: 18px;
@@ -133,7 +133,7 @@ body {
 }
 
 .current::after {
-  content: '';
+  content: "";
   position: absolute;
   left: 0;
   bottom: -1px;
@@ -174,7 +174,7 @@ body {
 .button {
   background: #4d5ae5;
   color: #fff;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -237,7 +237,7 @@ body {
   margin-bottom: 8px;
 }
 
-.strategy {
+.advantage-names {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.02em;
@@ -294,7 +294,7 @@ body {
   text-align: center;
 }
 
-.nameavatar {
+.name-avatar {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -423,7 +423,7 @@ body {
   border-top: none;
 }
 
-.bankingapp {
+.our-services-name {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.02em;
@@ -450,7 +450,7 @@ body {
 
 /* start footer section*/
 
-.page-footer {
+.page-footer-content {
   background: #2e2f42;
   padding: 100px 0;
 }
